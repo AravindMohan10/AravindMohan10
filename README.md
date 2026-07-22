@@ -5,6 +5,8 @@ Full stack × applied AI engineer. I take things apart to see how they work, the
 **Portfolio:** [aravindmohan.vercel.app](https://aravindmohan.vercel.app)  
 **Looking for:** founding / full-stack × AI roles · open to relocate
 
+<!-- profile readme -->
+
 ## Selected work
 
 | Project | What it is |
